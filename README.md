@@ -1,2 +1,3 @@
-# playing-numpy
-Playing tic-tac-toe with NumPy
+# Playing NumPy
+
+Playing NumPy is a pedagogical notebook to introduce NumPy indexing and broadcasting.
